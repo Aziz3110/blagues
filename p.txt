@@ -15,3 +15,6 @@ Vous voulez une bière ?
 Oui, je veux une bière
 Très bien
 Un groupe de paquets TCP rentre dans un bar, le barman dit : « Attendez deux secondes, je dois fermer cette fenêtre »
+
+Yo
+Hah
